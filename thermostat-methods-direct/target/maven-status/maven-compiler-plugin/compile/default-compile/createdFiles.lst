@@ -1,0 +1,7 @@
+samples/com/microsoft/azure/sdk/iot/device/Thermostat$1.class
+samples/com/microsoft/azure/sdk/iot/device/Thermostat.class
+samples/com/microsoft/azure/sdk/iot/device/Thermostat$EmbeddedPropertyUpdate.class
+samples/com/microsoft/azure/sdk/iot/device/Thermostat$GetMaxMinReportMethodCallback.class
+samples/com/microsoft/azure/sdk/iot/device/Thermostat$MessageSentCallback.class
+samples/com/microsoft/azure/sdk/iot/device/Thermostat$TargetTemperatureUpdateCallback.class
+samples/com/microsoft/azure/sdk/iot/device/Thermostat$StatusCode.class
