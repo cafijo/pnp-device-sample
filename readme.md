@@ -1,14 +1,3 @@
----
-page_type: sample
-description: "A set of Java samples that show how a device that uses the IoT Plug and Play conventions interacts with either IoT Hub or IoT Central."
-languages:
-- java
-products:
-- azure-iot-hub
-- azure-iot-central
-- azure-iot-pnp
-urlFragment: azure-iot-pnp-device-samples-for-java
----
 ## Configuring the sample
 Both samples use environment variables to retrieve configuration.
 
